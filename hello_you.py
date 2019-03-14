@@ -6,4 +6,8 @@ Created on Thu Mar 14 18:06:35 2019
 @author: fannieklein
 """
 
+<<<<<<< HEAD
 print("I love coding")
+=======
+print("loving to code")
+>>>>>>> test
