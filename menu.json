@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "name": "Soup",
+            "price": 10,
+            "Spice Level": "B",
+            "Gluten Intex": false
+        },
+        {
+            "name": "Hamburger",
+            "price": 15,
+            "Spice Level": "A",
+            "Gluten Intex": true
+        },
+        {
+            "name": "Salad",
+            "price": 18,
+            "Spice Level": "A",
+            "Gluten Intex": false
+        },
+        {
+            "name": "French Fries",
+            "price": 5,
+            "Spice Level": "C",
+            "Gluten Intex": false
+        },
+        {
+            "name": "Boeuf Bourgignon",
+            "price": 25,
+            "Spice Level": "B",
+            "Gluten Intex": true
+        },
+        {
+            "name": "Salmon",
+            "price": "35",
+            "spice_level": "1",
+            "gluten_index": "False"
+        },
+        {
+            "name": "Salmon",
+            "price": "35",
+            "spice_level": "1",
+            "gluten_index": "False"
+        }
+    ]
+}
