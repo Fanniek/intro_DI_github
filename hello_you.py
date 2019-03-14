@@ -6,4 +6,4 @@ Created on Thu Mar 14 18:06:35 2019
 @author: fannieklein
 """
 
-print("The weather is beautiful today")
+print("I love coding and testing")
