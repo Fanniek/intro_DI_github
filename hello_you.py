@@ -6,4 +6,4 @@ Created on Thu Mar 14 18:06:35 2019
 @author: fannieklein
 """
 
-print("I love coding and testing")
+print("I love coding")
